@@ -1,0 +1,22 @@
+ The Objective behind to organize Quiz competition is to
+evaluate the knowledge of theparticipants within academics 
+as well as beyond academics and to make them familiar with 
+the prospects of quizzes and the objectivity of the questions.
+The main purpose of the competition to develop interest in
+subject areas of Commerce and Management including 
+competitive aspects.The Quiz competition will be on all 
+of the following areas relating to Web development and 
+Management.
+
+1 PHP
+2 JAVA
+3 HTML
+4 CSS
+5 JAVA SCRIPT 
+6 BOOTSTRAP
+7 C C++
+8 PYTHON
+9 ANGULAR
+The above subject list is Illustrative and it is not exhaustive hence other areas can be
+brought under the purview of Web development and Management.
+
